@@ -46,6 +46,11 @@ Data Source: Excel
   ## 📸 Dashboard Preview
 ![Dashboard Preview](https://github.com/Samtechies/Data-Jobs-Power-BI-Visualization/blob/main/POWERBI%20-%20Data%20Jobs%20Dashboard.jpg)
 
+### Power BI Report
+
+You can access my Power BI report [here](https://1drv.ms/u/s!Au5_yi_HHw1ya_105eqYmdB2Qr8?e=QiMWNN).
+
+
 Happy Analyzing! 🎉
 
 
