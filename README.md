@@ -27,13 +27,6 @@ This Power BI project analyzes a dataset from a survey conducted among data prof
 - Visualization: Stacked Bar Chart
 - Purpose: Compares the average salaries of various job titles within the data profession.
 
-##  📂 File Structure
-.
-├── PowerBI_Project.pbix   # Power BI file with the project report
-├── README.md              # Project documentation
-├── Images/                # Screenshots of the dashboard 
-└── Data/                  # Raw dataset used for analysis 
-
 ## 🛠️ Tools Used
 Power BI Desktop: For creating and designing visualizations.
 Data Source: Excel
@@ -51,7 +44,7 @@ Data Source: Excel
 - Integrate real-time data for dynamic insights.
 
   ## 📸 Dashboard Preview
-![Dashboard Preview](C:\Users\user\Downloads.png)
+![Dashboard Preview](https://github.com/Samtechies/Data-Jobs-Power-BI-Visualization/blob/main/POWERBI%20-%20Data%20Jobs%20Dashboard.jpg)
 
 Happy Analyzing! 🎉
 
